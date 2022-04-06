@@ -12,17 +12,20 @@
 - 📫 Contáctame **yanfranve@gmail.com**
 
 - 📄 ¿quien soy? 
-- 
-- Soy Full Stack Developer con el lenguaje JavaScript, React, NodeJS, Redux como mi stack principal. 
-- Me gusta la creacion por esa razon me gusta la programacion por que puedo crear soluciones y eso me hace crecer como profesional me gustan los proyectos ambiciosos en tecnologia y que me permitan aprender otros lenguajes , con un sentido de responsabilidad y cooperación. Capacidad para trabajar en equipo y mantener buenas relaciones interpersonales. Fiel a la frase ¿Por qué voy  hacerlo mal si puedo hacerlo bien?. Pasión por el Detalle y siempre voy por mas no me gusta ser conforme . Competencias: Iniciativa, Comunicación Asertiva, Manejo del Cambio, Orientación al Logro, Solución de Problemas. 
+
  
-- Teniendo mas de 800 horas de codigo en un bootcamp de Henry utilizando /JavaScript HTML ,CSS, React Redux ,Expres Posctgres,SQL, Nodejs los cuales aplique en el PI de Dogs
+ Soy Full Stack Developer con el lenguaje JavaScript, React, NodeJS, Redux como mi stack principal. 
+ 
+  Me gusta la creacion por esa razon me gusta la programacion por que puedo crear soluciones y eso me hace crecer como profesional me gustan los proyectos ambiciosos en tecnologia y que me permitan aprender otros lenguajes , con un sentido de responsabilidad y cooperación. Capacidad para trabajar en equipo y mantener buenas relaciones interpersonales. Fiel a la frase ¿Por qué voy  hacerlo mal si puedo hacerlo bien?. Pasión por el Detalle y siempre voy por mas no me gusta ser conforme . Competencias: Iniciativa, Comunicación Asertiva, Manejo del Cambio, Orientación al Logro, Solución de Problemas ,teniendo mas de 800 horas de codigo en un bootcamp de Henry utilizando /JavaScript HTML ,CSS, React Redux ,Expres Posctgres,SQL, Nodejs los cuales aplique en el PI de Dogs](Soy Full Stack Developer con el lenguaje JavaScript, React, NodeJS, Redux como mi stack principal. me gusta la creacion por esa razon me gusta la programacion por que puedo crear soluciones y eso me hace creser como profecional me gustan los proyectos ambiciosos en tecnologia y que me permitan aprender otros lenguajes , con un sentido de responsabilidad y cooperación. Capacidad para trabajar en equipo y mantener buenas relaciones interpersonales. Fiel a la frase ¿Por qué voy a hacerlo mal si puedo hacerlo bien?. Pasión por el Detalle y siempre voy por mas no me gusta ser conforme . Competencias: Iniciativa, Comunicación Asertiva, Manejo del Cambio, Orientación al Logro, Solución de Problemas.
+
+ Teniendo mas de 800 horas de codigo en un bootcamp de Henry utilizando /JavaScript HTML ,CSS, React Redux ,Expres Posctgres,SQL, Nodejs los cuales aplique en el PI de Dogs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/franklinyanez17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franklinyanez17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/franklin yanez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franklin yanez" height="30" width="40" /></a>
 <a href="https://fb.com/yanfran yanfran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yanfran yanfran" height="30" width="40" /></a>
+<a href="https://instagram.com/inversionesyanfran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inversionesyanfran" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
